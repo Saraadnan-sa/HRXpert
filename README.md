@@ -3,8 +3,8 @@
 ## Quickstart
 
 ```bash
-git clone <your-repo>
-cd ai-research-env
+git clone https://github.com/Saraadnan-sa/HRXpert.git
+cd ai-env
 
 make dev          # Create and initialize environment
 cp .env.example .env
